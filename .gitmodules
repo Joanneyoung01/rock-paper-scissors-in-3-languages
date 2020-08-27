@@ -1,0 +1,3 @@
+[submodule "RPS"]
+	path = RPS - Javascript
+	url = git@github.com:Joanneyoung01/coding-katas.git
