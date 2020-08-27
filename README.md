@@ -1,3 +1,5 @@
+## Rock Paper Scissors in 3 languages
+
 This repository was created in order to practice programming a simple game in three languages.
 
 - Javascript

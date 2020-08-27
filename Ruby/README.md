@@ -1,9 +1,11 @@
-This week I thought the challenge went ok - I approached the problem by breaking down the user stories into HTTP request paths for /get and /post methods. 
+## Rock Paper Scissors - TypeScript
+Let's play! You have to return which player won! In case of a draw return Draw!.
 
-The set up was a little shakey (i accidentally overrided a previous repo, hence the amount of commits!) but happy with how the challenge went. As it completes the user stories. I would like to look into why in the Game object, in the result method the computer's move (rock, paper or scissors) is not showing on the results page. Other than that, I am happy with the functionality.  
+1. cd 'RPS - Ruby' 
+2. In your terminal run `bundle` to ensure you have the latest gems installed
+3. Run the app by running `rackup` this will give you a local port to run on `http://localhost:xxxx`
+4. Run tests by running `rspec`
 
-
-## RPS Challenge ##
 # Instructions #
 Challenge time: rest of the day and weekend, until Monday 9am
 Feel free to use google, your notes, books, etc. but work on your own
