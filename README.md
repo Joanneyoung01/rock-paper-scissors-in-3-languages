@@ -25,3 +25,4 @@ To run the project please follow the following instructions.
 3. Run the app by running `rackup`
 4. Run tests by running `rspec`
 
+All specific instructions can be found in the folder's README files
